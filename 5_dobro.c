@@ -9,4 +9,6 @@ int main()
     ptx = &x;
     *ptx *=2;
     printf("O dobro é %.f.\n", *ptx);
+
+    return 0;
 }
